@@ -50,7 +50,7 @@ sup, sub { outline:1px solid magenta; display:block; align-self:center; }
 
 .key:active { transform:translateY(1px); background:#333; box-shadow:0 1px 0 #000;}
 
-.one { flex:0.5; } /* one */
+.one { flex:1; } /* one */
 .one-one-half { flex:1.5; } /* One and one half */
 .two { flex:2; } /* two */
 .two-two-half { flex:2.5; } /* Two and two half */
